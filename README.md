@@ -22,9 +22,9 @@ Mitsuki is a Python script designed for brute-forcing SSH, FTP, and MySQL/mariaD
    ```
 
 3. Download the requirements:
-  ```bash
-  sudo ./installer.sh
-  ```
+   ```bash
+   sudo ./installer.sh
+   ```
 
 ## Usage
 
