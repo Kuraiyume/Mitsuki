@@ -34,10 +34,10 @@ python3 mitsuki.py <hostname> -P <password_file> -u <username> -t <num_threads> 
 
 ## Warning
 
-    - Never use this tool for illegal purposes. The author assumes no liability for misuse.
-    - Ensure you have permission to test against the target server.
+- Never use this tool for illegal purposes. The author assumes no liability for misuse.
+- Ensure you have permission to test against the target server.
 
 ## License
 
-    - This project is licensed under the MIT License - see the LICENSE file for details.
+- This project is licensed under the MIT License - see the LICENSE file for details.
 
