@@ -17,7 +17,7 @@ banner = r"""
 /    Y    \  ||  |  \___ \|  |  /    <|  |
 \____|__  /__||__| /____  >____/|__|_ \__|
         \/              \/           \/   
-                            Zephyr
+                            Kuraiyume
 """
 
 logging.basicConfig(filename="bruteforce.log", level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
