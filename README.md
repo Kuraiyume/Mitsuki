@@ -13,7 +13,7 @@ Mitsuki is a Python script designed for brute-forcing SSH, FTP, and MySQL/mariaD
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/veilwr4ith/Mitsuki
+   git clone https://github.com/Kuraiyume/Mitsuki
    ```
 
 2. Make the installer executable:
